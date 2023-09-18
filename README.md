@@ -1,2 +1,2 @@
-# web-projeto-api-swapi
+# Projeto API SWAPI
 Projeto usando a API SWAPI Star Wars
