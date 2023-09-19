@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    color: #fed34f;
+    font-family: Arial;
+    text-align: center;
+}
+
+#logo {
+    animation-name: fadeout;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes fadeout {
+    from {
+      width: 100%;
+    }
+    to {
+      width: 0%;
+    }
+}
+
+h1 {
+    font-size: 100px;
+}
